@@ -1,0 +1,6 @@
+-sname rabbitmq_learn
+
+-setcookie rabbitmq_learn_cookie
+
++K true
++A30

@@ -1,0 +1,14 @@
+{"1.1.0",
+[{<<"amqp_client">>,{pkg,<<"amqp_client">>,<<"3.6.11">>},0},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.5.1">>},0},
+ {<<"rabbit_common">>,{pkg,<<"rabbit_common">>,<<"3.6.11">>},1},
+ {<<"sync">>,{pkg,<<"sync">>,<<"0.1.3">>},0}]}.
+[
+{pkg_hash,[
+ {<<"amqp_client">>, <<"4D3D5D4D4D79F0D3B1EA98C7040446385A3C60C8125A233C675E772279088627">>},
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>},
+ {<<"lager">>, <<"63897A61AF646C59BB928FEE9756CE8BDD02D5A1A2F3551D4A5E38386C2CC071">>},
+ {<<"rabbit_common">>, <<"B3B369D985A46E8689F961403B3157D35F83D259A746BE32FB6FEEF7CAD27F28">>},
+ {<<"sync">>, <<"C5785FE1311542B76355F403B8E0B35E30DBBEE1F5E89968748CEA4D0A20D289">>}]}
+].

@@ -1,0 +1,19 @@
+{application, rabbitmq_learn,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { rabbitmq_learn_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    amqp_client,
+    sync,
+    lager
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
